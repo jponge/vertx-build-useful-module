@@ -1,0 +1,132 @@
+[submodule "vert.x"]
+	path = vert.x
+	url = https://github.com/eclipse/vert.x.git
+[submodule "vertx-auth"]
+	path = vertx-auth
+	url = https://github.com/vert-x3/vertx-auth.git
+[submodule "vertx-web"]
+	path = vertx-web
+	url = https://github.com/vert-x3/vertx-web.git
+[submodule "vertx-kafka-client"]
+	path = vertx-kafka-client
+	url = https://github.com/vert-x3/vertx-kafka-client.git
+[submodule "vertx-consul-client"]
+	path = vertx-consul-client
+	url = https://github.com/vert-x3/vertx-consul-client.git
+[submodule "vertx-mqtt"]
+	path = vertx-mqtt
+	url = https://github.com/vert-x3/vertx-mqtt.git
+[submodule "vertx-infinispan"]
+	path = vertx-infinispan
+	url = https://github.com/vert-x3/vertx-infinispan.git
+[submodule "vertx-lang-kotlin"]
+	path = vertx-lang-kotlin
+	url = https://github.com/vert-x3/vertx-lang-kotlin.git
+[submodule "vertx-grpc"]
+	path = vertx-grpc
+	url = https://github.com/vert-x3/vertx-grpc.git
+[submodule "vertx-lang-scala"]
+	path = vertx-lang-scala
+	url = https://github.com/vert-x3/vertx-lang-scala.git
+[submodule "vertx-dependencies"]
+	path = vertx-dependencies
+	url = https://github.com/vert-x3/vertx-dependencies.git
+[submodule "vertx-config"]
+	path = vertx-config
+	url = https://github.com/vert-x3/vertx-config.git
+[submodule "vertx-lang-groovy"]
+	path = vertx-lang-groovy
+	url = https://github.com/vert-x3/vertx-lang-groovy.git
+[submodule "vertx-rx"]
+	path = vertx-rx
+	url = https://github.com/vert-x3/vertx-rx.git
+[submodule "vertx-proton"]
+	path = vertx-proton
+	url = https://github.com/vert-x3/vertx-proton.git
+[submodule "vertx-redis-client"]
+	path = vertx-redis-client
+	url = https://github.com/vert-x3/vertx-redis-client.git
+[submodule "vertx-amqp-bridge"]
+	path = vertx-amqp-bridge
+	url = https://github.com/vert-x3/vertx-amqp-bridge.git
+[submodule "vertx-rabbitmq-client"]
+	path = vertx-rabbitmq-client
+	url = https://github.com/vert-x3/vertx-rabbitmq-client.git
+[submodule "vertx-mail-client"]
+	path = vertx-mail-client
+	url = https://github.com/vert-x3/vertx-mail-client.git
+[submodule "vertx-stomp"]
+	path = vertx-stomp
+	url = https://github.com/vert-x3/vertx-stomp.git
+[submodule "vertx-tcp-eventbus-bridge"]
+	path = vertx-tcp-eventbus-bridge
+	url = https://github.com/vert-x3/vertx-tcp-eventbus-bridge.git
+[submodule "vertx-bridge-common"]
+	path = vertx-bridge-common
+	url = https://github.com/vert-x3/vertx-bridge-common.git
+[submodule "vertx-mongo-client"]
+	path = vertx-mongo-client
+	url = https://github.com/vert-x3/vertx-mongo-client.git
+[submodule "vertx-embedded-mongo-db"]
+	path = vertx-embedded-mongo-db
+	url = https://github.com/vert-x3/vertx-embedded-mongo-db.git
+[submodule "vertx-mysql-postgresql-client"]
+	path = vertx-mysql-postgresql-client
+	url = https://github.com/vert-x3/vertx-mysql-postgresql-client.git
+[submodule "vertx-jdbc-client"]
+	path = vertx-jdbc-client
+	url = https://github.com/vert-x3/vertx-jdbc-client.git
+[submodule "vertx-sql-common"]
+	path = vertx-sql-common
+	url = https://github.com/vert-x3/vertx-sql-common.git
+[submodule "vertx-zookeeper"]
+	path = vertx-zookeeper
+	url = https://github.com/vert-x3/vertx-zookeeper.git
+[submodule "vertx-hazelcast"]
+	path = vertx-hazelcast
+	url = https://github.com/vert-x3/vertx-hazelcast.git
+[submodule "vertx-service-discovery"]
+	path = vertx-service-discovery
+	url = https://github.com/vert-x3/vertx-service-discovery.git
+[submodule "vertx-service-proxy"]
+	path = vertx-service-proxy
+	url = https://github.com/vert-x3/vertx-service-proxy.git
+[submodule "vertx-circuit-breaker"]
+	path = vertx-circuit-breaker
+	url = https://github.com/vert-x3/vertx-circuit-breaker.git
+[submodule "vertx-health-check"]
+	path = vertx-health-check
+	url = https://github.com/vert-x3/vertx-health-check.git
+[submodule "vertx-hawkular-metrics"]
+	path = vertx-hawkular-metrics
+	url = https://github.com/vert-x3/vertx-hawkular-metrics.git
+[submodule "vertx-dropwizard-metrics"]
+	path = vertx-dropwizard-metrics
+	url = https://github.com/vert-x3/vertx-dropwizard-metrics.git
+[submodule "vertx-shell"]
+	path = vertx-shell
+	url = https://github.com/vert-x3/vertx-shell.git
+[submodule "vertx-reactive-streams"]
+	path = vertx-reactive-streams
+	url = https://github.com/vert-x3/vertx-reactive-streams.git
+[submodule "vertx-unit"]
+	path = vertx-unit
+	url = https://github.com/vert-x3/vertx-unit.git
+[submodule "vertx-lang-js"]
+	path = vertx-lang-js
+	url = https://github.com/vert-x3/vertx-lang-js.git
+[submodule "vertx-codetrans"]
+	path = vertx-codetrans
+	url = https://github.com/vert-x3/vertx-codetrans.git
+[submodule "vertx-codegen"]
+	path = vertx-codegen
+	url = https://github.com/vert-x3/vertx-codegen.git
+[submodule "vertx-parent"]
+	path = vertx-parent
+	url = https://github.com/vert-x3/vertx-parent.git
+[submodule "vertx-ext-parent"]
+	path = vertx-ext-parent
+	url = https://github.com/vert-x3/vertx-ext-parent.git
+[submodule "vertx-ignite"]
+	path = vertx-ignite
+	url = https://github.com/vert-x3/vertx-ignite.git
