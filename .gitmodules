@@ -130,3 +130,6 @@
 [submodule "vertx-ignite"]
 	path = vertx-ignite
 	url = https://github.com/vert-x3/vertx-ignite.git
+[submodule "vertx-docgen"]
+	path = vertx-docgen
+	url = https://github.com/vert-x3/vertx-docgen.git
