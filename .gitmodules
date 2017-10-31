@@ -25,18 +25,12 @@
 [submodule "vertx-grpc"]
 	path = vertx-grpc
 	url = https://github.com/vert-x3/vertx-grpc.git
-[submodule "vertx-lang-scala"]
-	path = vertx-lang-scala
-	url = https://github.com/vert-x3/vertx-lang-scala.git
 [submodule "vertx-dependencies"]
 	path = vertx-dependencies
 	url = https://github.com/vert-x3/vertx-dependencies.git
 [submodule "vertx-config"]
 	path = vertx-config
 	url = https://github.com/vert-x3/vertx-config.git
-[submodule "vertx-lang-groovy"]
-	path = vertx-lang-groovy
-	url = https://github.com/vert-x3/vertx-lang-groovy.git
 [submodule "vertx-rx"]
 	path = vertx-rx
 	url = https://github.com/vert-x3/vertx-rx.git
@@ -133,3 +127,6 @@
 [submodule "vertx-docgen"]
 	path = vertx-docgen
 	url = https://github.com/vert-x3/vertx-docgen.git
+[submodule "vertx-lang-groovy"]
+	path = vertx-lang-groovy
+	url = https://github.com/vert-x3/vertx-lang-groovy

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+
+  <modelVersion>4.0.0</modelVersion>
+  <packaging>pom</packaging>
+
+  <artifactId>vertx-build-useful-modules</artifactId>
+  <groupId>com.github.jponge</groupId>
+  <version>3.5.1-SNAPSHOT</version>
+
+  <modules>
+    <module>vertx-parent</module>
+    <module>vertx-ext-parent</module>
+
+    <module>vertx-codegen</module>
+    <module>vertx-docgen</module>
+    <module>vertx-codetrans</module>
+
+    <module>vert.x</module>
+    <module>vertx-rx</module>
+
+    <module>vertx-lang-js</module>
+    <module>vertx-lang-groovy</module>
+    <module>vertx-lang-kotlin</module>
+
+    <module>vertx-unit</module>
+    <module>vertx-service-proxy</module>
+
+    <module>vertx-auth</module>
+    <module>vertx-amqp-bridge</module>
+    <module>vertx-bridge-common</module>
+    <module>vertx-circuit-breaker</module>
+    <module>vertx-config</module>
+    <module>vertx-consul-client</module>
+    <module>vertx-dropwizard-metrics</module>
+    <module>vertx-embedded-mongo-db</module>
+    <module>vertx-grpc</module>
+    <module>vertx-hawkular-metrics</module>
+    <module>vertx-hazelcast</module>
+    <module>vertx-health-check</module>
+    <module>vertx-ignite</module>
+    <module>vertx-infinispan</module>
+    <module>vertx-jdbc-client</module>
+    <module>vertx-kafka-client</module>
+    <module>vertx-mail-client</module>
+    <module>vertx-mongo-client</module>
+    <module>vertx-mqtt</module>
+    <module>vertx-mysql-postgresql-client</module>
+    <module>vertx-proton</module>
+    <module>vertx-rabbitmq-client</module>
+    <module>vertx-reactive-streams</module>
+    <module>vertx-redis-client</module>
+    <module>vertx-service-discovery</module>
+    <module>vertx-shell</module>
+    <module>vertx-sql-common</module>
+    <module>vertx-stomp</module>
+    <module>vertx-tcp-eventbus-bridge</module>
+    <module>vertx-web</module>
+    <module>vertx-zookeeper</module>
+
+    <module>vertx-dependencies</module>
+  </modules>
+
+</project>
