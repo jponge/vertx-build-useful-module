@@ -23,6 +23,8 @@
     <module>vertx-lang-js</module>
     <module>vertx-lang-groovy</module>
     <module>vertx-lang-kotlin</module>
+    <module>vertx-lang-scala</module>
+    <module>vertx-lang-ruby</module>
 
     <module>vertx-unit</module>
     <module>vertx-service-proxy</module>

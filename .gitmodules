@@ -130,3 +130,9 @@
 [submodule "vertx-lang-groovy"]
 	path = vertx-lang-groovy
 	url = https://github.com/vert-x3/vertx-lang-groovy
+[submodule "vertx-lang-scala"]
+	path = vertx-lang-scala
+	url = https://github.com/vert-x3/vertx-lang-scala.git
+[submodule "vertx-lang-ruby"]
+	path = vertx-lang-ruby
+	url = https://github.com/vert-x3/vertx-lang-ruby.git
